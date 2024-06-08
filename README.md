@@ -1,6 +1,6 @@
 # Airline Sentiment Analysis
 Authored by saeed asle
-# Description
+# Description 
 This project performs sentiment analysis on tweets about airlines using a Random Forest classifier.
 The dataset contains tweets labeled with sentiments such as positive, negative, and neutral.
 
